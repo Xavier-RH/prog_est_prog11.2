@@ -10,7 +10,7 @@ Presenta el uso de:
     <li>printf para mostrar el mensaje en terminal</li>
     <li>scanf para ingresar datos</li>
     <li>Operaciones matemáticas</li>
-    <li>El uso de #include para añadir librerias</li>
+    <li>#include para añadir librerias</li>
     <li>Condicional if-else</li>
   </ul>
 </p>
