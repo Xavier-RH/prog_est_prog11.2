@@ -19,8 +19,8 @@ Presenta el uso de:
 
 <p><b>Breve descripcion:</b><br>
 Programa para una tienda de Arduinos, en dicha Tienda existe una promocion<br>
-    -Si se llevan minimo 5 arduinos, se le hace el 20% de descuento<br>
-    -Si no, se le hace el 5% de descuento<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Si se llevan minimo 5 arduinos, se le hace el 20% de descuento<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Si no, se le hace el 5% de descuento<br>
 Cada Arduino tiene un costo de $350.00<br>
 El programa pedira la cantidad de arduinos y calculara el total a pagar
 </p>
